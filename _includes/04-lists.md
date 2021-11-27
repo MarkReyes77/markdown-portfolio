@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- A like listening songs about love 💌
+- I want to be a bigest developer 💻
+- I wish to eat a apple 🍎
