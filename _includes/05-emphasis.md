@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- 👋 Hi, I’m @MarkReyes77
+- 👀 I’m interested in to create things
+- 🌱 I’m currently learning javascript frameworks
+- 💞️ I’m looking to collaborate on in any technology company
+- 📫 How to reach me: marcos.mrc.77@gmail.com
